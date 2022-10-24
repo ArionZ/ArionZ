@@ -1,6 +1,6 @@
 Sobre Mim
 
-![NecessaryVerifiableBushbaby-max-1mb](https://user-images.githubusercontent.com/103933868/197505924-9ac4e775-f9c6-4dda-967f-09fe33e21691.gif)
+![passaro explosao boom](https://user-images.githubusercontent.com/103933868/197505924-9ac4e775-f9c6-4dda-967f-09fe33e21691.gif)
 
 - 👋 Oi, eu sou o Arion...
 - 👀 Estou interessado em aprender novas linguagens...
