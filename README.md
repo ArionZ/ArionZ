@@ -9,8 +9,8 @@
 - 💤 Atualmente estou aprendendo a programar JavaScript...
 - 😮‍💨 Estou procurando colaborar em tudo o que for preciso...
 
-[![gatinho-gato](https://user-images.githubusercontent.com/103933868/197515464-803231d4-34ec-48ea-9dbc-4e91d1d358a2.gif)](https://media.tenor.com/NriMDna69-gAAAAM/qsmp-richarlyson.gif)
-
+[[![gatinho-gato](https://user-images.githubusercontent.com/103933868/197515464-803231d4-34ec-48ea-9dbc-4e91d1d358a2.gif)](https://media.tenor.com/NriMDna69-gAAAAM/qsmp-richarlyson.gif)
+](https://media.tenor.com/NriMDna69-gAAAAM/qsmp-richarlyson.gif)
 
 <!---
 ArionZ/ArionZ é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
