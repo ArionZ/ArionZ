@@ -9,7 +9,7 @@
 - 💤 Atualmente estou aprendendo a programar JavaScript...
 - 😮‍💨 Estou procurando colaborar em tudo o que for preciso...
 
-![Typing GIF]([https://media.tenor.com/NriMDna69-gAAAAM/qsmp-richarlyson.gif](https://media.tenor.com/JiNtUIj6vAsAAAAC/qsmp-egg.gif))
+![Typing GIF]([[https://media.tenor.com/NriMDna69-gAAAAM/qsmp-richarlyson.gif](https://media.tenor.com/JiNtUIj6vAsAAAAC/qsmp-egg.gif)](https://media.tenor.com/JiNtUIj6vAsAAAAC/qsmp-egg.gif))
 
 
 <!---
