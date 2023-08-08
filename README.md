@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff7bfe&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Arion+Zimmermann;I'm+16+years+old;I+from+Brasil,+PR;Be+Welcome!+:3)](https://git.io/typing-svg)
 
 
-
- - 🙊 Oi, eu sou o <p style="color:blue;"> Arion</p> ... 🤓 🖕
+<p style="color: blue;">Este texto está em azul.</p>
+ - 🙊 Oi, eu sou o Arion... 🤓 🖕
  - 👀 Estou interessado em aprender novas linguagens...
  - 😵‍💫 Meu email de contato é arion.zimmermann@escola.pr.gov.br ...
  - 💤 Atualmente estou aprendendo a programar JavaScript...
