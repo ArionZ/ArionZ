@@ -9,7 +9,7 @@
 
 
 
-
+:--------------------------------------------------------------:
   🤓 Estou interessado em aprender Html e JavaScript.
   💌 Meu email de contato é arion.zimmermann@escola.pr.gov.br.
   😿 Atualmente estou aprendendo a programar JavaScript...
