@@ -18,12 +18,9 @@ tipo eu ssou mt lindo tlgd
 
 
 
-
-
-
-![Typing GIF](https://static.wikia.nocookie.net/skullgirls/images/1/1f/Robo-Fortune_Dizzy.gif/revision/latest/scale-to-width-down/250?cb=20230514140322)
-
-
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/skullgirls/images/1/1f/Robo-Fortune_Dizzy.gif/revision/latest/scale-to-width-down/250?cb=20230514140322" alt="animated" />
+</p>
 <!---
 ArionZ/ArionZ é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 Você pode clicar no link Visualizar para dar uma olhada nas suas alterações.
