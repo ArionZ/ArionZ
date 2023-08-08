@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff7bfe&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Arion+Zimmermann;I'm+16+years+old;I+from+Brasil,+PR;Be+Welcome!+:3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff7bfe&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+H+Zimmermann;I'm+16+years+old;I+from+Brasil,+PR;Be+Welcome!+:3)](https://git.io/typing-svg)
 
 
 
@@ -11,7 +11,9 @@
  - 😿 **Atualmente estou aprendendo a programar JavaScript...**
  
 
-
+<!---
+tipo eu ssou mt lindo tlgd
+--->
 
 
 ![Typing GIF](https://media.tenor.com/B5eIJWczxeMAAAAC/dies-roblox.gif)
