@@ -11,11 +11,11 @@
  - 😵‍💫 Meu email de contato é arion.zimmermann@escola.pr.gov.br ...
  - 💤 Atualmente estou aprendendo a programar JavaScript...
  - 😮‍💨 Estou procurando colaborar em tudo o que for preciso...
-  
+ 
 
 
 
-<img src="https://conteudo.imguol.com.br/c/entretenimento/d8/2017/09/27/bob-esponja-1506562776988_v2_3x4.jpg" alt="aaaa">
+![Typing GIF](https://media.tenor.com/B5eIJWczxeMAAAAC/dies-roblox.gif)
 
 
 <!---
