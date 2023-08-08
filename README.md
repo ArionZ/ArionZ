@@ -9,7 +9,7 @@
 
 💌 Meu email de contato é arion.zimmermann@escola.pr.gov.br.
 :--------------------------------------------------------------:
-😿 Atualmente estou aprendendo a programar JavaScript...
+😿 Atualmente estou aprendendo a programar JavaScript, Html, essas coisas...
 
 
 <!---
