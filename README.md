@@ -6,13 +6,10 @@
 
 
 
- - 🙊 Oi, eu sou o Arion... 🤓 🖕
- - 👀 Estou interessado em aprender novas linguagens...
- - 😵‍💫 Meu email de contato é arion.zimmermann@escola.pr.gov.br ...
- - 💤 Atualmente estou aprendendo a programar JavaScript...
- - 😮‍💨 Estou procurando colaborar em tudo o que for preciso...
+ - 🤓 **Estou interessado em aprender Html e JavaScript.**
+ - 💌 **Meu email de contato é arion.zimmermann@escola.pr.gov.br.**
+ - 😿 **Atualmente estou aprendendo a programar JavaScript...**
  
-
 
 
 ![Typing GIF](https://media.tenor.com/B5eIJWczxeMAAAAC/dies-roblox.gif)
