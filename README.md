@@ -24,7 +24,7 @@ tipo eu ssou mt lindo tlgd
 
 
 
-![Typing GIF](https://media.tenor.com/B5eIJWczxeMAAAAC/dies-roblox.gif)
+![Typing GIF](https://static.wikia.nocookie.net/skullgirls/images/1/1f/Robo-Fortune_Dizzy.gif/revision/latest/scale-to-width-down/250?cb=20230514140322)
 
 
 <!---
