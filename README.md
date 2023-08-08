@@ -7,6 +7,11 @@
 
 
 <p align="center">
+Sobre:
+</p>
+
+
+<p align="center">
 🌲 Meu email de contato é arion.zimmermann@escola.pr.gov.br.
 </p>
 
@@ -15,6 +20,12 @@
 🥬 Atualmente estou aprendendo a programar JavaScript, Html, essas coisas...
 </p>
 
+
+<p align="center">
+Obrigado pela atenção <3
+</p>
+
+    
 
 <!---
 tipo eu ssou mt lindo tlgd
