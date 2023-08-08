@@ -6,12 +6,12 @@
 
 
 
-
+<p align="center">
 💌 Meu email de contato é arion.zimmermann@escola.pr.gov.br.
-:--------------------------------------------------------------:
+</p>
+<p align="center">
 😿 Atualmente estou aprendendo a programar JavaScript, Html, essas coisas...
-
-
+</p>
 <!---
 tipo eu ssou mt lindo tlgd
 --->
