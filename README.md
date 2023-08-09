@@ -7,7 +7,7 @@
 
 
 <p align="center">
-Sobre:
+eu:
 </p>
 
 
