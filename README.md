@@ -22,7 +22,7 @@ eu:
 
 
 <p align="center">
-Obrigado pela atenção <3
+Obrigado pela atenção 
 </p>
 
     
