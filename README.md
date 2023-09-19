@@ -12,7 +12,7 @@ info:
 
 
 <p align="center">
-🌲 Meu email de contato é arion.zimmermann@escola.pr.gov.br.
+🤏 Meu email de contato é arion.zimmermann@escola.pr.gov.br.
 </p>
 
 
