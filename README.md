@@ -7,7 +7,7 @@
 
 
 <p align="center">
-** info: **
+info: 
 </p>
 
 
