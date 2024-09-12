@@ -17,12 +17,12 @@ info:
 
 
 <p align="center">
-🥬 Atualmente estou aprendendo a programar JavaScript, Html, essas coisas...
+🥬 Atualmente não estou aprendendo nada de interessante...!!1!
 </p>
 
 
 <p align="center">
-Obrigado pela atenção 
+é  isso
 </p>
 
     
