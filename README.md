@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3bc1c3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Arion+(Arion);I'm+17+years+old;I+from+Brasil,+PR;Be+Welcome!+:3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3bc1c3&size=35&center=true&vCenter=true&width=1000&lines=OIIII,+MEU+NOME+É+Arion+(Arion);TENHO+17+ANOS+;SOU+DO+BRASIL,+PR;Be+Welcome!+:3)](https://git.io/typing-svg)
 
 
 
