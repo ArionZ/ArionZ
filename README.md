@@ -36,7 +36,7 @@ tipo eu ssou mt lindo tlgd
 --->
 
  <p align="center">
-  <img src="https://static.wikia.nocookie.net/skullgirls/images/1/1f/Robo-Fortune_Dizzy.gif/revision/latest/scale-to-width-down/250?cb=20230514140322" alt="animated" />
+
  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWR2c2x5Ymo4N2M2bXB5NWNpdzR1MWUyZzRhdGJkNXZ0YjRrbmgxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/32YkbylsN7xSwefYye/giphy.webp" alt="animated" />
 <img src="https://media1.giphy.com/media/lAp0XRgR1mmawyTZ2V/giphy.webp?cid=ecf05e47wk7up4yw2wjfb71lcq4jxs0o00lyw7ib93m1fdv4&ep=v1_gifs_search&rid=giphy.webp&ct=g"  alt="animated"/>
     <img src="https://media2.giphy.com/media/YaeGPwwQ8lUTtGMkdP/giphy.webp?cid=790b76115z1xjx0tc7j01prgrrrvurc2bumf114ya7l422aw&ep=v1_gifs_search&rid=giphy.webp&ct=g"  alt="animated"/>
